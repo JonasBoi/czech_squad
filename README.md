@@ -13,3 +13,11 @@
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+
+update:
+
+train / dev
+
+2.0: 115,415 / 12,066
+
+4.1: 69,169 / 9,615
